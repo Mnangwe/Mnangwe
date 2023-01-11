@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azabenathi Pupuma</h1>
-<h3 align="center">A passionate Software enthusiast from South Africa</h3>
+<h3 align="center">A passionate Software Engineer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnangwe&label=Profile%20views&color=0e75b6&style=flat" alt="mnangwe" /> </p>
 
@@ -7,19 +7,19 @@
 
 - 🔭 I’m currently working on [e-Stratweni-mobile-app](https://github.com/Mnangwe/Capstone_Frontend)
 
-- 🌱 I’m currently learning **Angular, Python, MongoDB, Typescript**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Future projects**
 
 - 🤝 I’m looking for help with **data science material**
 
-- 👨‍💻 All of my projects are available at [azabenathipupuma.netlify.app](azabenathipupuma.netlify.app)
+- 👨‍💻 Some of my projects are available at [azabenathipupuma.netlify.app](azabenathipupuma.netlify.app)
 
-- 💬 Ask me about **Vue, Javascript**
+- 💬 Ask me about **Vue, Javascript, Angular, API, Fullstack**
 
 - 📫 How to reach me **pupuma.azabenathi@gmail.com**
 
-- ⚡ Fun fact **I am a Civil Engineer**
+- ⚡ Fun fact **I am a Civil Engineer, self-taught Software Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
