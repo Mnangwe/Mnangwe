@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Future projects**
 
-- 🤝 I’m looking for help with **data science material**
+- 🤝 I’m looking for help with **Data Science material**
 
 - 👨‍💻 Some of my projects are available at [azabenathipupuma.netlify.app](azabenathipupuma.netlify.app)
 
